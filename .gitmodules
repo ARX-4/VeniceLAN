@@ -1,0 +1,3 @@
+[submodule "jitasm"]
+	path = vendor/jitasm
+	url = https://github.com/armata/jitasm.git
